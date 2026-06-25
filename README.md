@@ -103,23 +103,23 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
 
 <div align="center">
   <a href="https://github.com/sameervarshney03">
-    <img src="https://cdn.simpleicons.org/github/94A3B8" width="24" height="24" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26" height="26" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sameer-varshney-87102b319">
-    <img src="https://cdn.simpleicons.org/linkedin/94A3B8" width="24" height="24" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sameer_Var/">
-    <img src="https://cdn.simpleicons.org/leetcode/94A3B8" width="24" height="24" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sam0303">
-    <img src="https://cdn.simpleicons.org/codeforces/94A3B8" width="24" height="24" alt="Codeforces" />
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="26" height="26" alt="Codeforces" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:samv12761@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/94A3B8" width="24" height="24" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" height="26" alt="Email" />
   </a>
 </div>
 
