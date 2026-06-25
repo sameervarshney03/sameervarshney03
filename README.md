@@ -14,7 +14,7 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
 
 ## Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <br />
@@ -62,7 +62,7 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
 
 ## Currently Learning
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <br />
@@ -75,51 +75,29 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
   </tr>
 </table>
 
-<br /><br /><br />
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameervarshney03&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F8FAFC&icon_color=3B82F6&text_color=94A3B8&ring_color=3B82F6" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com?user=sameervarshney03&hide_border=true&border_radius=12&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameervarshney03&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameervarshney03&bg_color=0D1117&color=94A3B8&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6&hide_border=true&radius=12" alt="Contribution Graph" width="100%" />
-</div>
-
-<br /><br /><br />
 
 ## Connect
 
 <div align="center">
-  <a href="https://github.com/sameervarshney03">
+  <a href="https://github.com/sameervarshney03" target="_blank">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26" height="26" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319">
+  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sameer_Var/">
+  <a href="https://leetcode.com/u/Sameer_Var/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sam0303">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="26" height="26" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/sam0303" target="_blank">
+    <img src="./assets/codeforces.svg" width="26" height="26" alt="Codeforces" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:samv12761@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" height="26" alt="Email" />
+  <a href="mailto:samv12761@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26" height="26" alt="Email" />
   </a>
 </div>
 

@@ -65,7 +65,7 @@
   <!-- Animated typing lines -->
   <g>
     <text class="typing" x="600" y="250" text-anchor="middle">Full Stack Developer</text>
-    <text class="typing" x="600" y="250" text-anchor="middle">Data Structures & Algorithms Enthusiast</text>
+    <text class="typing" x="600" y="250" text-anchor="middle">Data Structures &amp; Algorithms Enthusiast</text>
     <text class="typing" x="600" y="250" text-anchor="middle">Backend Engineering Enthusiast</text>
     <text class="typing" x="600" y="250" text-anchor="middle">Building Scalable Web Applications</text>
   </g>
