@@ -1,0 +1,54 @@
+<svg width="1200" height="128" viewBox="0 0 1200 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Glassmorphism wave divider</title>
+  <desc>A minimal GitHub dark wave divider with a blue accent glow.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161B22" stop-opacity="0.74" />
+      <stop offset="0.52" stop-color="#0D1117" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#161B22" stop-opacity="0.78" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="75" y1="42" x2="1120" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0" />
+      <stop offset="0.2" stop-color="#3B82F6" stop-opacity="0.62" />
+      <stop offset="0.52" stop-color="#58A6FF" stop-opacity="0.95" />
+      <stop offset="0.82" stop-color="#3B82F6" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(604 68) scale(560 118)">
+      <stop stop-color="#3B82F6" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="blur" x="-24" y="-34" width="1248" height="196" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+
+    <clipPath id="markClip">
+      <circle cx="1054" cy="64" r="36" />
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="128" rx="22" fill="url(#panel)" />
+  <rect x="1" y="1" width="1198" height="126" rx="21" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2" />
+  <rect width="1200" height="128" rx="22" fill="url(#glow)" />
+
+  <g filter="url(#blur)" opacity="0.82">
+    <path d="M64 82C188 34 306 32 430 70C562 110 676 108 806 68C936 28 1046 36 1136 82" stroke="#3B82F6" stroke-opacity="0.32" stroke-width="18" stroke-linecap="round" />
+  </g>
+
+  <path d="M64 82C188 34 306 32 430 70C562 110 676 108 806 68C936 28 1046 36 1136 82" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M64 84C188 36 306 34 430 72C562 112 676 110 806 70C936 30 1046 38 1136 84V128H64V84Z" fill="#0D1117" fill-opacity="0.34" />
+
+  <g opacity="0.45">
+    <circle cx="150" cy="42" r="2" fill="#58A6FF" />
+    <circle cx="274" cy="72" r="1.35" fill="#C9D1D9" />
+    <circle cx="924" cy="42" r="1.8" fill="#58A6FF" />
+    <circle cx="1038" cy="74" r="1.25" fill="#8B949E" />
+  </g>
+
+  <image href="./logo.jpg" x="1018" y="28" width="72" height="72" preserveAspectRatio="xMidYMid slice" clip-path="url(#markClip)" opacity="0.18" />
+  <circle cx="1054" cy="64" r="36" stroke="#FFFFFF" stroke-opacity="0.12" />
+</svg>

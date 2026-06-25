@@ -1,0 +1,151 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Sameer Varshney - Full Stack Developer</title>
+  <desc>A premium GitHub profile banner with glassmorphism styling and rotating developer role text.</desc>
+
+  <defs>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(850 82) rotate(132) scale(620 420)">
+      <stop stop-color="#3B82F6" stop-opacity="0.45" />
+      <stop offset="0.44" stop-color="#1D4ED8" stop-opacity="0.12" />
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="glass" x1="190" y1="46" x2="1028" y2="378" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.14" />
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.055" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="line" x1="290" y1="76" x2="1040" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.95" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.18" />
+    </linearGradient>
+
+    <filter id="softShadow" x="112" y="0" width="976" height="432" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="22" />
+      <feGaussianBlur stdDeviation="36" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0235294 0 0 0 0 0.0470588 0 0 0 0 0.0941176 0 0 0 0.5 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+    </filter>
+
+    <clipPath id="logoClip">
+      <circle cx="322" cy="202" r="88" />
+    </clipPath>
+
+    <style>
+      .label {
+        font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #58A6FF;
+        letter-spacing: 0;
+      }
+
+      .name {
+        font: 800 64px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #F0F6FC;
+        letter-spacing: 0;
+      }
+
+      .subtitle {
+        font: 500 27px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #C9D1D9;
+        letter-spacing: 0;
+      }
+
+      .typing {
+        font: 600 22px "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        fill: #E6EDF3;
+        letter-spacing: 0;
+        opacity: 0;
+        animation: rotateText 12s infinite;
+      }
+
+      .typing:nth-of-type(2) { animation-delay: 3s; }
+      .typing:nth-of-type(3) { animation-delay: 6s; }
+      .typing:nth-of-type(4) { animation-delay: 9s; }
+
+      .tagline {
+        font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #F0F6FC;
+        letter-spacing: 0;
+      }
+
+      .muted {
+        font: 500 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #8B949E;
+      }
+
+      @keyframes rotateText {
+        0%, 18% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+        23%, 100% {
+          opacity: 0;
+          transform: translateY(-12px);
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .typing {
+          animation: none;
+          opacity: 0;
+        }
+        .typing:first-of-type {
+          opacity: 1;
+        }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="0" fill="#0D1117" />
+  <rect width="1200" height="420" fill="url(#blueGlow)" />
+
+  <path d="M0 343C152 300 282 302 424 336C573 372 692 386 842 338C988 292 1104 286 1200 314V420H0V343Z" fill="#161B22" fill-opacity="0.5" />
+  <path d="M0 343C152 300 282 302 424 336C573 372 692 386 842 338C988 292 1104 286 1200 314" stroke="#3B82F6" stroke-opacity="0.28" stroke-width="2" />
+
+  <g opacity="0.36">
+    <circle cx="1020" cy="82" r="2" fill="#58A6FF" />
+    <circle cx="1082" cy="146" r="1.6" fill="#8B949E" />
+    <circle cx="908" cy="58" r="1.4" fill="#C9D1D9" />
+    <circle cx="184" cy="86" r="1.8" fill="#58A6FF" />
+    <circle cx="110" cy="222" r="1.2" fill="#8B949E" />
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="150" y="46" width="900" height="328" rx="32" fill="url(#glass)" />
+    <rect x="151" y="47" width="898" height="326" rx="31" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="2" />
+    <rect x="151" y="47" width="898" height="326" rx="31" stroke="url(#line)" stroke-opacity="0.5" stroke-width="2" />
+  </g>
+
+  <g>
+    <circle cx="322" cy="202" r="104" fill="#0D1117" fill-opacity="0.82" />
+    <circle cx="322" cy="202" r="104" stroke="#3B82F6" stroke-opacity="0.5" stroke-width="2" />
+    <circle cx="322" cy="202" r="90" fill="#161B22" />
+    <image href="./logo.jpg" x="234" y="114" width="176" height="176" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)" />
+    <circle cx="322" cy="202" r="88" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2" />
+  </g>
+
+  <g transform="translate(464 112)">
+    <text class="label" x="0" y="0">Hello, I am</text>
+    <text class="name" x="0" y="78">Sameer Varshney</text>
+    <text class="subtitle" x="2" y="125">Full Stack Developer</text>
+    <text class="muted" x="2" y="158">Mathematics &amp; Computing @ NIT Hamirpur</text>
+
+    <g transform="translate(0 202)">
+      <rect x="0" y="-34" width="552" height="54" rx="16" fill="#0D1117" fill-opacity="0.72" />
+      <rect x="0.5" y="-33.5" width="551" height="53" rx="15.5" stroke="#30363D" />
+      <text class="typing" x="22" y="2">• Full Stack Developer</text>
+      <text class="typing" x="22" y="2">• Competitive Programmer</text>
+      <text class="typing" x="22" y="2">• Building Scalable Web Applications</text>
+      <text class="typing" x="22" y="2">• Learning System Design</text>
+      <rect x="516" y="-18" width="2" height="24" rx="1" fill="#3B82F6">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <text class="tagline" x="2" y="290">Code • Learn • Build • Repeat</text>
+  </g>
+</svg>
