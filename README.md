@@ -1,182 +1,132 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Sameer Varshney - Full Stack Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Sameer Varshney" width="100%" />
 </div>
 
-<br />
+<br /><br /><br />
 
-<div align="center">
-  <a href="https://github.com/sameervarshney03">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="24" height="24" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319">
-    <img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="24" height="24" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sameer_Var/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" height="24" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sam0303">
-    <img src="https://cdn.simpleicons.org/codeforces/3B82F6" width="24" height="24" alt="Codeforces" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samv12761@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Email" />
-  </a>
-</div>
+## About
 
-<br />
+Mathematics & Computing undergraduate at NIT Hamirpur. I build backend services and full-stack applications with a focus on clean architecture and reliability.
 
-<img src="./assets/background.svg" alt="" width="100%" />
+Day to day, that means writing server-side code, solving algorithmic problems, and learning how systems scale. Clear thinking matters more to me than clever tricks.
 
-## About Me
-
-<table>
-  <tr>
-    <td>
-      <strong>I'm a Mathematics &amp; Computing undergraduate at NIT Hamirpur passionate about building scalable web applications and solving algorithmic problems.</strong>
-      <br /><br />
-      I enjoy learning backend engineering, modern web technologies and software architecture while continuously improving my problem-solving skills.
-    </td>
-  </tr>
-</table>
+<br /><br /><br />
 
 ## Tech Stack
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
+      <br />
       <strong>Languages</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="C++, JavaScript, TypeScript" />
+      <br /><br />
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
+      <br />
       <strong>Frontend</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind" />
+      <br /><br />
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
+      <br />
       <strong>Backend</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
+      <br /><br />
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
+      <br />
       <strong>Database</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis&theme=dark" alt="MongoDB, Firebase, Redis" />
+      <br /><br />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td align="center" colspan="2">
+      <br />
       <strong>Tools</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman&theme=dark" alt="Git, Docker, VS Code, Postman" />
+      <br /><br />
     </td>
   </tr>
 </table>
+
+<br /><br /><br />
 
 ## Currently Learning
 
 <table>
   <tr>
     <td>
-      <strong>Currently Learning</strong>
+      <br />
+      &nbsp;&nbsp;<strong>Redis</strong> — In-memory caching &amp; pub/sub patterns<br /><br />
+      &nbsp;&nbsp;<strong>System Design</strong> — Scalability, load balancing, distributed systems<br /><br />
+      &nbsp;&nbsp;<strong>Backend Architecture</strong> — Microservices &amp; event-driven design<br /><br />
+      &nbsp;&nbsp;<strong>Next.js</strong> — Server components, app router, edge runtime
       <br /><br />
-      • Redis
-      <br />
-      • Next.js
-      <br />
-      • System Design
-      <br />
-      • Backend Architecture
     </td>
   </tr>
 </table>
+
+<br /><br /><br />
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameervarshney03&show_icons=true&hide_border=false&border_radius=12&bg_color=0D1117&border_color=30363D&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="Sameer's GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sameervarshney03&theme=github-dark-blue&hide_border=false&border_radius=12&border=30363D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Sameer's GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameervarshney03&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F8FAFC&icon_color=3B82F6&text_color=94A3B8&ring_color=3B82F6" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://streak-stats.demolab.com?user=sameervarshney03&hide_border=true&border_radius=12&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameervarshney03&layout=compact&hide_border=false&border_radius=12&bg_color=0D1117&border_color=30363D&title_color=3B82F6&text_color=C9D1D9" alt="Sameer's top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameervarshney03&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameervarshney03&bg_color=0D1117&color=C9D1D9&line=3B82F6&point=58A6FF&area=true&area_color=3B82F6&hide_border=false&border_radius=12" alt="Sameer's contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameervarshney03&bg_color=0D1117&color=94A3B8&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6&hide_border=true&radius=12" alt="Contribution Graph" width="100%" />
 </div>
 
-<br />
+<br /><br /><br />
+
+## Connect
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameervarshney03/sameervarshney03/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameervarshney03/sameervarshney03/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/sameervarshney03/sameervarshney03/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-  </picture>
+  <a href="https://github.com/sameervarshney03">
+    <img src="https://cdn.simpleicons.org/github/94A3B8" width="24" height="24" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319">
+    <img src="https://cdn.simpleicons.org/linkedin/94A3B8" width="24" height="24" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sameer_Var/">
+    <img src="https://cdn.simpleicons.org/leetcode/94A3B8" width="24" height="24" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sam0303">
+    <img src="https://cdn.simpleicons.org/codeforces/94A3B8" width="24" height="24" alt="Codeforces" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:samv12761@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/94A3B8" width="24" height="24" alt="Email" />
+  </a>
 </div>
 
-## Coding Profiles
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/sameervarshney03">
-        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub" />
-        <br />
-        <strong>GitHub</strong>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.linkedin.com/in/sameer-varshney-87102b319">
-        <img src="https://cdn.simpleicons.org/linkedin/3B82F6" width="32" height="32" alt="LinkedIn" />
-        <br />
-        <strong>LinkedIn</strong>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://leetcode.com/u/Sameer_Var/">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode" />
-        <br />
-        <strong>LeetCode</strong>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://codeforces.com/profile/sam0303">
-        <img src="https://cdn.simpleicons.org/codeforces/3B82F6" width="32" height="32" alt="Codeforces" />
-        <br />
-        <strong>Codeforces</strong>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="mailto:samv12761@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
-        <br />
-        <strong>Email</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameervarshney03&style=flat-square&color=3B82F6&label=Visitors" alt="Visitor counter" />
-</div>
-
-<br />
+<br /><br /><br />
 
 <div align="center">
   <img src="./assets/background.svg" alt="" width="100%" />
-  <br />
-  <strong>Thanks for visiting.</strong>
+  <br /><br />
+  <sub>Thanks for stopping by.</sub>
 </div>
