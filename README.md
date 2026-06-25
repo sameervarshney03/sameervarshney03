@@ -93,7 +93,7 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sameer_Var/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" alt="LeetCode" />
+    <img src="./assets/leetcode.svg" width="26" height="26" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sam0303" target="_blank">
@@ -101,7 +101,7 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:samv12761@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26" height="26" alt="Email" />
+    <img src="./assets/gmail.svg" width="26" height="26" alt="Email" />
   </a>
 </div>
 
