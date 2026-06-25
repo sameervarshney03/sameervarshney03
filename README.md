@@ -84,25 +84,15 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
 ## Connect
 
 <div align="center">
-  <a href="https://github.com/sameervarshney03" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26" height="26" alt="GitHub" />
-  </a>
+  <a href="https://github.com/sameervarshney03" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="26" height="26" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/sameer-varshney-87102b319" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sameer_Var/" target="_blank">
-    <img src="./assets/leetcode.svg" width="26" height="26" alt="LeetCode" />
-  </a>
+  <a href="https://leetcode.com/u/Sameer_Var/" target="_blank"><img src="./assets/leetcode.svg" width="26" height="26" alt="LeetCode" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sam0303" target="_blank">
-    <img src="./assets/codeforces.svg" width="26" height="26" alt="Codeforces" />
-  </a>
+  <a href="https://codeforces.com/profile/sam0303" target="_blank"><img src="./assets/codeforces.svg" width="26" height="26" alt="Codeforces" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:samv12761@gmail.com" target="_blank">
-    <img src="./assets/gmail.svg" width="26" height="26" alt="Email" />
-  </a>
+  <a href="mailto:samv12761@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="26" height="26" alt="Email" /></a>
 </div>
 
 <br /><br /><br />
