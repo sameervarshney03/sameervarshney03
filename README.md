@@ -14,66 +14,70 @@ Day to day, that means writing server-side code, solving algorithmic problems, a
 
 ## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <br />
-      <strong>Languages</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="C++, JavaScript, TypeScript" />
-      <br /><br />
-    </td>
-    <td align="center" width="50%">
-      <br />
-      <strong>Frontend</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind" />
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br />
-      <strong>Backend</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
-      <br /><br />
-    </td>
-    <td align="center" width="50%">
-      <br />
-      <strong>Database</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis&theme=dark" alt="MongoDB, Firebase, Redis" />
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br />
-      <strong>Tools</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman&theme=dark" alt="Git, Docker, VS Code, Postman" />
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <br />
+        <strong>Languages</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="C++, JavaScript, TypeScript" />
+        <br /><br />
+      </td>
+      <td align="center">
+        <br />
+        <strong>Frontend</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind" />
+        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <br />
+        <strong>Backend</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
+        <br /><br />
+      </td>
+      <td align="center">
+        <br />
+        <strong>Database</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis&theme=dark" alt="MongoDB, Firebase, Redis" />
+        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <strong>Tools</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman&theme=dark" alt="Git, Docker, VS Code, Postman" />
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br /><br /><br />
 
 ## Currently Learning
 
-<table width="100%">
-  <tr>
-    <td>
-      <br />
-      &nbsp;&nbsp;<strong>Redis</strong> — In-memory caching &amp; pub/sub patterns<br /><br />
-      &nbsp;&nbsp;<strong>System Design</strong> — Scalability, load balancing, distributed systems<br /><br />
-      &nbsp;&nbsp;<strong>Backend Architecture</strong> — Microservices &amp; event-driven design<br /><br />
-      &nbsp;&nbsp;<strong>Next.js</strong> — Server components, app router, edge runtime
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <br />
+        &nbsp;&nbsp;<strong>Redis</strong> — In-memory caching &amp; pub/sub patterns<br /><br />
+        &nbsp;&nbsp;<strong>System Design</strong> — Scalability, load balancing, distributed systems<br /><br />
+        &nbsp;&nbsp;<strong>Backend Architecture</strong> — Microservices &amp; event-driven design<br /><br />
+        &nbsp;&nbsp;<strong>Next.js</strong> — Server components, app router, edge runtime
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
